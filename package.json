@@ -1,0 +1,31 @@
+{
+  "name": "electionapi",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./public/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emincankarasoy/ElectionAPI.git"
+  },
+  "keywords": [
+    "turkey",
+    "election",
+    "api",
+    "2023"
+  ],
+  "author": "Emincan Karasoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emincankarasoy/ElectionAPI/issues"
+  },
+  "homepage": "https://github.com/emincankarasoy/ElectionAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
